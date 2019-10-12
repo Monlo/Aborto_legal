@@ -1,0 +1,37 @@
+Variable,Descripción,Tipo de dato
+YEAR,Año en que se realizó el procedimiento,int
+MES,Mes en que se realizó el procedimiento,varchar
+CVE_HOSPITAL,Clave de la Unidad Médica donde se realizó el procedimiento,varchar
+FINGRESO,Fecha de Interrupción Legal del Embarazo,varchar
+AUTOREF,Especificar si la paciente es referida de otra unidad o acude directamente,varchar
+EDOCIVIL_DESCRIPCION,Estado civil,varchar
+EDAD,Edad cumplida en años,int
+DESC_DERECHOHAB,Especificar la institución que otorga la derechohabiencia,varchar
+NIVEL_EDU,Último nivel escola acreditado,varchar
+OCUPACION,Ocupación,varchar
+RELIGION,Religión,varchar
+PARENTEZCO,Parentesco del responsable con la paciente,varchar
+ENTIDAD,Entidad de residencia,varchar
+DELGACION Ó  MUNICIPIO,Delegación o municipio de residencia,varchar
+MENARCA,Edad de la primera menstruación,int
+FSEXUAL,Edad de inicio de vida sexual activa,int
+FMENSTRUA,Fecha de la última menstruación,varchar
+SEMEMB,Semanas de embarazo por fecha de última menstruación,int
+NHIJOS,Número de hijos,int
+GESTA,Número de embarazos (Incluyendo abortos),int
+NABORTO,Número de abortos,int
+NPARTOS,Número de nacimientos por vía vaginal,int
+NCESAREA,Número de cesáreas,int
+NILE,Número de Interrupciones Legales del Embarazo previas,int
+CONSEJERIA,Especificar si la paciente recibió consejería sobre la ILE,varchar
+ANTICONCEPTIVO,Especificar si la paciente utiliza de forma habitual método anticonceptivo,varchar
+C_NUM,Número de consultas,int
+MOTILES,Motivo por el cual se desea la interrupción del embarazo,varchar
+H_FINGRESO,"En caso de hospitalización, fecha de ingreso",varchar
+DESC_SERVICIO,Servicio en el que se otorgó la interrupción,varchar
+P_SEMGEST,Semanas de gestación por USG,int
+P_DIASGESTA,Días de gestación por USG,int
+P_CONSENT,Se requisitó y firmo el consentimiento informado,varchar
+PROCILE,Método utilizado para la interrupción legal,varchar
+S_COMPLICA,Se presentaron complicaciones por el procedimiento,varchar
+PANTICONCEP,Método anticonceptivo proporcionado post evento obstétrico,varchar

@@ -1,0 +1,33 @@
+cve_ent,entidad,Pena máxima en prisión,Clasificiación en años,value
+1,Aguascalientes,De 6 meses a 1 año,Hasta 1,2
+2,Baja California,De 1 a 5 años,Hasta 5 ,6
+3,Baja California Sur,De 2 meses a 2 años o trabajo forzado,Hasta 2 o trabajo forzado,3
+4,Campeche,De 1 a 3 años,Hasta 3,4
+5,Coahuila ,De 1 a 3 años,Hasta 3,4
+6,Colima,De 6 meses a 3 años,Hasta 3,4
+7,Chiapas,De 1 a 3 años,Hasta 3,4
+8,Chihuahua,De 6 meses a 3 años,Hasta 3,4
+9,Ciudad de México,Despenalizado antes de las 12 semanas,Despenalizado antes de las 12 semanas,0
+10,Durango,De 1 a 3 años,Hasta 3,4
+11,Guanajuato,De 6 meses a 3 años,Hasta 3,4
+12,Guerrero,De 6 meses a 3 años,Hasta 3,4
+13,Hidalgo,De 1 a 3 años,Hasta 3,4
+14,Jalisco,De 4 meses a 1 año (se puede triplicar),Hasta 3,4
+15,México,De 1 a 3 años,Hasta 3,4
+16,Michoacán,De 1 a 3 años,Hasta 3,4
+17,Morelos,De 1 a 5 años,Hasta 5,6
+18,Nayarit,De 1 a 3 años,Hasta 3,4
+19,Nuevo León,De 6 meses a 1 año,Hasta 1,2
+20,Oaxaca,Despenalizado antes de las 12 semanas,Despenalizado antes de las 12 semanas,0
+21,Puebla,De 1 a 5 años,Hasta 5,6
+22,Querétaro,De 1 a 3 años,Hasta 3,4
+23,Quintana Roo,De 1 a 3 años,Hasta 3,4
+24,San Luis Potosí,De 6 meses a 3 años,Hasta 3,4
+25,Sinaloa,De 6 meses a 3 años,Hasta 3 ,4
+26,Sonora,De 1 a 6 años ,Hasta 6 ,7
+27,Tabasco,De 6 meses a 3 años,Hasta 3,4
+28,Tamaulipas,De 1 a 5 años o tratamiento,Hasta 5 o tratamiento,6
+29,Tlaxcala,De 15 días a 2 meses,Menos 1,1
+30,Veracruz de Ignacio de la Llave,De 6 meses a 4 años,Hasta 4,5
+31,Yucatán,De 1 a 5 años,Hasta 5,6
+32,Zacatecas,De 4 meses a 1 año,Hasta 1,2
